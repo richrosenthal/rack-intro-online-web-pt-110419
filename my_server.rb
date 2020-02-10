@@ -8,6 +8,6 @@ class MyServer
   end
   
    def last_response
-    ["<em>Hello</em>"] 
+    ["<em>Hello, my name is</em>"] 
   end
 end
